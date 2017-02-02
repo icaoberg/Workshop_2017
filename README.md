@@ -15,7 +15,5 @@ Initial pipeline overview will contain:
 
 This repository has been created as a place to work out and share the components of this pipeline.
 
-At this point, the candidate tools for such a joint model are:
-
 
 ![Cell1 in CellBlender/MCell](cellblender/Cell1_Test1.gif?raw=true "Cell1 in CellBlender/MCell")
