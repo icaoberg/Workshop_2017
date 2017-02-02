@@ -10,7 +10,7 @@ Initial pipeline overview will contain:
 * BNG / RuleBender
 * Compartmental BioNetGen
 * Import into CellBlender and run with MCell
-* Comparison with BioNegGen model
+* Comparison with BioNetGen model
 * Replace primitive geometries with CellOrganizer and run in CellBlender/MCell again
 
 This repository has been created as a place to work out and share the components of this pipeline.
